@@ -1,3 +1,7 @@
+## 4.2.2
+
+- Update jQuery to 3.1.1
+
 ## 4.2.1
 
 - Update jQuery to 3.1.0
